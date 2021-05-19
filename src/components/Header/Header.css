@@ -1,0 +1,26 @@
+.logo a {
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: #ff6f00;
+}
+
+.logo a:hover {
+  color: #ff6f00;
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+.active {
+  color: #ff6f00 !important;
+}

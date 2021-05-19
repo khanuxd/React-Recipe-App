@@ -1,0 +1,48 @@
+.hero {
+  height: 100vh;
+  background: url(../../assests/dish.jpg) no-repeat fixed center center/cover;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hero h1 {
+  padding: 2rem 0;
+  font-size: 3rem;
+  text-transform: uppercase;
+  color: #ff6f00;
+}
+
+.hero span {
+  padding: 2rem;
+}
+
+/* tablet */
+
+@media (max-width: 899px) {
+  .hero {
+    align-items: center;
+  }
+
+  .hero h1 {
+    text-align: center;
+  }
+
+  .hero span {
+    display: block;
+    text-align: center;
+  }
+}
+
+/* Mobile Support */
+
+@media (max-width: 576px) {
+  .hero h1 {
+    font-size: 2rem;
+  }
+
+  .hero button {
+    width: 100%;
+  }
+}

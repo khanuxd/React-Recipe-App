@@ -1,0 +1,23 @@
+.main-section {
+  margin-top: 60px;
+}
+
+.search-area {
+  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6f001f;
+}
+
+.search-area h3 {
+  text-align: center;
+  padding: 2rem;
+  font-weight: 300 !important;
+}
+
+.search-area input {
+  text-align: center;
+  width: 300px;
+}

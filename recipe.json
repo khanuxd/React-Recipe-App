@@ -1,0 +1,477 @@
+{
+  "recipes": [
+    {
+      "name": "Beef Biryani",
+      "desc": "This delicious beef biryani is great for freezing – just be sure to allow everything to cool first.",
+      "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/beef_biriyani_96108_16x9.jpg",
+      "origin": "Indian",
+      "cookTime": "60",
+      "recipeIngredient": [
+        {
+          "id": 1,
+          "ingName": "Beef mince",
+          "ingquantity": "1kg"
+        },
+        {
+          "id": 2,
+          "ingName": "Vegetable oil",
+          "ingquantity": "2 tbsp"
+        },
+        {
+          "id": 3,
+          "ingName": "onions (finely chopped)",
+          "ingquantity": "2"
+        },
+        {
+          "id": 4,
+          "ingName": "carrots(peeled and finely chopped)",
+          "ingquantity": "2"
+        },
+        {
+          "id": 5,
+          "ingName": "Garlic cloves (finely chopped)",
+          "ingquantity": "4"
+        },
+        {
+          "id": 6,
+          "ingName": "piece fresh root ginger (finely grated)",
+          "ingquantity": "5cm"
+        },
+        {
+          "id": 7,
+          "ingName": "Madras curry paste",
+          "ingquantity": "200g"
+        },
+        {
+          "id": 8,
+          "ingName": "Hot chilli powder (optional)",
+          "ingquantity": "1 tsp"
+        },
+        {
+          "id": 9,
+          "ingName": "Basmati rice",
+          "ingquantity": "500g"
+        },
+        {
+          "id": 10,
+          "ingName": "Beef stock",
+          "ingquantity": "1.5 litres"
+        },
+        {
+          "id": 11,
+          "ingName": "courgettes (finely chopped)",
+          "ingquantity": "200g"
+        },
+        {
+          "id": 12,
+          "ingName": "Green beans (cut into 2.5cm/1in lengths)",
+          "ingquantity": "200g"
+        },
+        {
+          "id": 13,
+          "ingName": "Cauliflower (cut into very small florets)",
+          "ingquantity": "200g"
+        },
+        {
+          "id": 14,
+          "ingName": "Broccoli, cut into very small florets",
+          "ingquantity": "200g"
+        },
+        {
+          "id": 15,
+          "ingName": "Frozen peas",
+          "ingquantity": "200g"
+        },
+        {
+          "id": 16,
+          "ingName": "handful coriander leaves (roughly chopped)",
+          "ingquantity": " "
+        }
+      ],
+      "recipeInstructions": [
+        {
+          "id": 1,
+          "recipeStep": "Preheat the oven to 200C/180C Fan/Gas 6. Line a large baking tray with baking paper."
+        },
+        {
+          "id": 2,
+          "recipeStep": "Spread the mince out on the lined baking tray and cook in the oven for 40 minutes, breaking up the mince well with a wooden spoon every 10 minutes. It should have a dark, even colour and resemble large coffee granules. Remove from the oven and set aside."
+        },
+        {
+          "id": 3,
+          "recipeStep": "Heat the oil in a large saucepan over a high heat. Add the onions and cook, stirring often, for 5 minutes to soften. Toss in the carrots and cook for 3–4 minutes."
+        },
+        {
+          "id": 4,
+          "recipeStep": "Add the garlic and ginger and cook for 2–3 minutes. Stir in the curry paste and chilli powder, if using, and cook, stirring, for 1–2 minutes."
+        },
+        {
+          "id": 5,
+          "recipeStep": "Add the basmati rice to the pan and cook, stirring, for 2 minutes. Pour in the beef stock, bring to the boil and boil rapidly for 5–8 minutes, stirring occasionally, until most of the liquid has evaporated and the rice is just slightly undercooked. Lower the heat to a simmer."
+        },
+        {
+          "id": 6,
+          "recipeStep": "Add the roasted mince, along with any juices, to the pan. Add the courgettes, green beans, cauliflower and broccoli and stir well. Put a lid on the pan and simmer for 8–10 minutes, until the rice and veg are cooked and the liquid is all absorbed."
+        },
+        {
+          "id": 7,
+          "recipeStep": "To make the raita, if serving, put the yoghurt into a bowl and add the cumin and a pinch of salt. Squeeze the cucumber to remove all excess liquid and add to the bowl. Mix well and sprinkle with the mint"
+        },
+        {
+          "id": 8,
+          "recipeStep": "Stir the frozen peas through the biriyani and cook for a couple of minutes, or until the peas are tender. Scatter the chopped coriander over the biriyani. Serve straight away, in warmed bowls, with the raita alongside, if using."
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Chicken supreme",
+      "desc": "This classic chicken supreme recipe, with its retro-bistro charm, works beautifully as a supper for family or friends. Serve with baked potatoes, or buttered boiled potatoes and green vegetables.",
+      "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/chicken_supreme_16330_16x9.jpg",
+      "origin": "French",
+      "cookTime": "30",
+      "recipeIngredient": [
+        {
+          "id": 1,
+          "ingName": "knob of butter",
+          "ingquantity": " "
+        },
+        {
+          "id": 2,
+          "ingName": "Olive oil",
+          "ingquantity": "1 tsp"
+        },
+        {
+          "id": 3,
+          "ingName": "Chicken breasts (boneless, skin-on)",
+          "ingquantity": "4"
+        },
+        {
+          "id": 4,
+          "ingName": "Smoked bacon lardons or roughly chopped smoked streaky bacon",
+          "ingquantity": "50g"
+        },
+        {
+          "id": 5,
+          "ingName": "Small onions or large shallots (finely chopped)",
+          "ingquantity": "2"
+        },
+        {
+          "id": 6,
+          "ingName": "Garlic cloves, crushed",
+          "ingquantity": "2"
+        },
+        {
+          "id": 7,
+          "ingName": "Dry white wine",
+          "ingquantity": "100ml"
+        },
+        {
+          "id": 8,
+          "ingName": "Double cream",
+          "ingquantity": "300ml"
+        },
+        {
+          "id": 9,
+          "ingName": "salt and freshly ground black pepper",
+          "ingquantity": " "
+        }
+      ],
+      "recipeInstructions": [
+        {
+          "id": 1,
+          "recipeStep": "Melt the butter with the oil in a large, lidded frying pan over a medium heat. Season the chicken all over and brown on both sides. Remove it from the pan and set aside."
+        },
+        {
+          "id": 2,
+          "recipeStep": "Add the bacon and onions to the pan and cook gently for 10 minutes until soft, stirring occasionally. Stir in the garlic and cook for another 5 minutes."
+        },
+        {
+          "id": 3,
+          "recipeStep": "Pour in the wine and let it bubble for a minute or so, then stir in the cream. Return the chicken to the pan, skin-side down, cover and cook for 10 minutes."
+        },
+        {
+          "id": 4,
+          "recipeStep": "Turn the chicken over, half-cover the pan and cook for 5–10 minutes more, or until the breasts are cooked through and the sauce has reduced to the consistency of thick cream. Season and serve."
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Chicken cacciatore",
+      "desc": "This chicken cacciatore recipe cooks up a big pot of stew – perfect for a med-week family meal!",
+      "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/chickenalocacciatore_70349_16x9.jpg",
+      "origin": "Italian",
+      "cookTime": "30",
+      "recipeIngredient": [
+        {
+          "id": 1,
+          "ingName": "Olive oil",
+          "ingquantity": "8 tbsp"
+        },
+        {
+          "id": 2,
+          "ingName": "Onion (thinly sliced)",
+          "ingquantity": "1"
+        },
+        {
+          "id": 3,
+          "ingName": "Celery stalks (roughly chopped)",
+          "ingquantity": "2"
+        },
+        {
+          "id": 4,
+          "ingName": "Medium carrots, roughly chopped",
+          "ingquantity": "2"
+        },
+        {
+          "id": 5,
+          "ingName": "Chicken breasts, or chicken thighs, bones removed",
+          "ingquantity": "6"
+        },
+        {
+          "id": 6,
+          "ingName": "White wine",
+          "ingquantity": "175ml"
+        },
+        {
+          "id": 7,
+          "ingName": "Tomato purée",
+          "ingquantity": "3 tbsp"
+        },
+        {
+          "id": 8,
+          "ingName": "Chicken stock",
+          "ingquantity": "500ml"
+        },
+        {
+          "id": 9,
+          "ingName": "Bay leaves",
+          "ingquantity": "2"
+        },
+        {
+          "id": 10,
+          "ingName": "Sage leaves",
+          "ingquantity": "2–3"
+        },
+        {
+          "id": 11,
+          "ingName": "Rosemary sprig",
+          "ingquantity": "1"
+        }
+      ],
+      "recipeInstructions": [
+        {
+          "id": 1,
+          "recipeStep": "Heat the oil in a frying pan and fry the onion, celery and carrots for 4–5 minutes, or until softened. Add the chicken pieces and continue to cook for 2–3 minutes or until the have browned a little."
+        },
+        {
+          "id": 2,
+          "recipeStep": "Pour in the wine and continue to cook until the volume of the liquid has reduced by half. Stir in the tomato purée and the stock. Add the herbs, reduce the heat and simmer for 30 minutes, or until the chicken is cooked through."
+        },
+        {
+          "id": 3,
+          "recipeStep": "Meanwhile, cook the polenta according to packet instructions. Add the butter and parmesan and stir until well combined."
+        },
+        {
+          "id": 4,
+          "recipeStep": "To serve, spoon the polenta onto serving plates and top with the chicken."
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Moorish lamb meatballs",
+      "desc": "Certainly more-ish, these Spanish lamb meatballs are made with lots of spices and served with crunchy patatas bravas.",
+      "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/moorish_meatballs_94958_16x9.jpg",
+      "origin": "Spanish",
+      "cookTime": "57",
+      "recipeIngredient": [
+        {
+          "id": 1,
+          "ingName": "Lamb mince (or pork mince)",
+          "ingquantity": "600g"
+        },
+        {
+          "id": 2,
+          "ingName": "Garlic cloves, crushed",
+          "ingquantity": "2"
+        },
+        {
+          "id": 3,
+          "ingName": "Ground coriander",
+          "ingquantity": "1 tbsp"
+        },
+        {
+          "id": 4,
+          "ingName": "Ground cumin",
+          "ingquantity": "2 tbsp"
+        },
+        {
+          "id": 5,
+          "ingName": "Sweet paprika",
+          "ingquantity": "1 tsp"
+        },
+        {
+          "id": 6,
+          "ingName": "Ground cinnamon",
+          "ingquantity": "½ tsp"
+        },
+        {
+          "id": 7,
+          "ingName": "Ground cardamom",
+          "ingquantity": "1 tsp"
+        },
+        {
+          "id": 8,
+          "ingName": " parsley (finely chopped)",
+          "ingquantity": "small bunch"
+        },
+        {
+          "id": 9,
+          "ingName": "lemon (zest only)",
+          "ingquantity": "1"
+        },
+        {
+          "id": 10,
+          "ingName": "Fresh breadcrumbs",
+          "ingquantity": "100g"
+        },
+        {
+          "id": 11,
+          "ingName": "Double cream",
+          "ingquantity": "50ml"
+        },
+        {
+          "id": 12,
+          "ingName": "Free-range egg",
+          "ingquantity": "1"
+        },
+        {
+          "id": 13,
+          "ingName": "Olive oil, for frying",
+          "ingquantity": "3-4 tbsp"
+        },
+        {
+          "id": 14,
+          "ingName": "salt and freshly ground black pepper",
+          "ingquantity": " "
+        }
+      ],
+      "recipeInstructions": [
+        {
+          "id": 1,
+          "recipeStep": "For the meatballs, put all the ingredients into a large bowl, season with a generous amount of salt and pepper and mix thoroughly with your hands. The mixture will feel wet to start with, but if you fold it in on itself as if you are kneading it, it will stiffen up. Form the mixture into balls of around 50g/1¾oz each – you should end up with about 16."
+        },
+        {
+          "id": 2,
+          "recipeStep": "To cook, either heat olive oil in a large frying pan and fry the meatballs in two batches, until well browned on all sides, or preheat the oven to 200C/180C Fan/Gas 6, put the meatballs on a greased baking tray, and cook for around 15 minutes, or until well browned and just cooked through. Keep warm."
+        },
+        {
+          "id": 3,
+          "recipeStep": "Meanwhile, to make the patata bravas, put the potatoes in a saucepan and cover with cold water. Bring to the boil and add plenty of salt. Simmer for 3–4 minutes until the potatoes are starting to soften."
+        },
+        {
+          "id": 4,
+          "recipeStep": "While you are cooking the meatballs, make the sauce: heat the olive oil in a saucepan. Add the onion and fry for 10 minutes or until softened and translucent."
+        },
+        {
+          "id": 5,
+          "recipeStep": "Add the garlic, spices and bay leaves and cook for a couple of minutes, stirring constantly, then add the tomatoes and honey. Pour over 200ml/7fl oz water, then bring to the boil. Reduce the heat and leave to simmer, covered, for 15 minutes, then uncovered for a further 5 minutes. Stir in the yoghurt, if using."
+        },
+        {
+          "id": 6,
+          "recipeStep": "Drain the potatoes and heat the olive oil in a large frying pan. Add the potatoes in a single layer (you may need to cook in batches if you can’t fit them in) and fry for 15–20 minutes or until crisp and brown on all sides."
+        },
+        {
+          "id": 7,
+          "recipeStep": "To make the patatas bravas sauce, heat the olive oil in a small saucepan and add the garlic. Cook for 2–3 minutes until starting to soften without taking on any colour. Add the vinegar and sugar and stir until the sugar has dissolved. Stir in the sweet and hot paprika."
+        },
+        {
+          "id": 8,
+          "recipeStep": "Pour the sauce over the crisp potatoes and sprinkle with a little more sweet and hot paprika."
+        },
+        {
+          "id": 9,
+          "recipeStep": "To finish the dish, put the meatballs into a large, deep frying pan, and cover with the sauce. Simmer gently for 5 minutes, or until the meatballs have heated through and the sauce has reduced a little."
+        },
+        {
+          "id": 10,
+          "recipeStep": "Serve sprinkled with a little parsley, if using.."
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Lamb masala",
+      "desc": "The lamb in this rich curry is gently poached in spiced water to make sure it is tender and flavoured right through.",
+      "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/lamb_masala_85568_16x9.jpg",
+      "origin": "Pakistani",
+      "cookTime": "120",
+      "recipeIngredient": [
+        {
+          "id": 1,
+          "ingName": "boneless lamb leg (chopped into 2.5cm/1in chunks)",
+          "ingquantity": "1kg"
+        },
+        {
+          "id": 2,
+          "ingName": "Whole garlic cloves (peeled)",
+          "ingquantity": "4"
+        },
+        {
+          "id": 3,
+          "ingName": "Black cardamom pods",
+          "ingquantity": "3"
+        },
+        {
+          "id": 4,
+          "ingName": "Green cardamom pods",
+          "ingquantity": "5"
+        },
+        {
+          "id": 5,
+          "ingName": "Dried curry leaves",
+          "ingquantity": "4"
+        },
+        {
+          "id": 6,
+          "ingName": "Cassia bark (broken)",
+          "ingquantity": "1"
+        },
+        {
+          "id": 7,
+          "ingName": "Salt",
+          "ingquantity": "2 tsp"
+        }
+      ],
+      "recipeInstructions": [
+        {
+          "id": 1,
+          "recipeStep": "Put the lamb in a large lidded saucepan and add the garlic cloves, black cardamom, green cardamom, curry leaves and cassia bark. Cover with water and add a generous pinch of salt. Bring to the boil, then reduce the heat to a gentle simmer, cover with a lid and cook for 30–35 minutes. Skim the foam that rises to the surface by scooping it out with a spoon. Once cooked, drain the lamb and set aside. Discard the garlic, cardamom pods, curry leaves and cassia bark."
+        },
+        {
+          "id": 2,
+          "recipeStep": "Meanwhile, in a separate large saucepan or casserole, heat the vegetable oil. Once hot, add the onions and gently fry for a few minutes over a medium–low heat until the onions start to brown. Add the chopped ginger and pounded garlic to the pan and continue to heat for a couple more minutes. Pour in a splash of hot water from the kettle to prevent the onions from burning. Cover with a lid, turn down the heat to its lowest setting and allow to cook for 5–10 minutes to soften."
+        },
+        {
+          "id": 3,
+          "recipeStep": "Add the Kashmiri curry masala to the pan, cook for a minute or two before adding another splash of hot water (approximately 100-150ml) and cook for a further couple of minutes."
+        },
+        {
+          "id": 4,
+          "recipeStep": "Stir in the salt, followed by the tomato quarters, chopped chillies and green pepper. Add another generous splash of water (100–150ml/3½–5fl oz) before mixing well. Cook for 10–15 minutes, continuing to stir until the ingredients have blended well and the oil has separated from the tomatoes. When the oil has risen to the top of the pan, it’s ready for the lamb."
+        },
+        {
+          "id": 5,
+          "recipeStep": "Add the cooked lamb to the pot and stir together well. Stir in the jeera masala and turmeric, cook for a few minutes then add hot water to cover (approximately 750ml/1¼ pint). Cover with a lid and cook for 40 minutes–1 hour on a low heat, stirring every now and then. Cook down to a fairly thick sauce, adding any extra water as needed to reach the desired consistency. Remove the lid for the last 15–20 minutes to allow the sauce to reduce down. Continue to cook until the oil has risen to the top of the pan again and the lamb is tender."
+        },
+        {
+          "id": 6,
+          "recipeStep": "Stir in the freshly chopped coriander and tomatoes pieces and cook for a further 5–10 minutes. Serve in a dish and sprinkle with a pinch of jeera masala and chopped coriander. Serve with chapatis."
+        }
+      ],
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+.recipe img {
+  width: 100%;
+}
+
+.recipe h3 {
+  padding: 1rem 0;
+}
+
+.recipe ul li {
+  list-style-type: circle;
+  line-height: 2rem;
+  color: rgb(45, 45, 45);
+  text-align: justify;
+}
+
+.recipe-details {
+  padding: 2rem 5rem;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.recipe-details h1 {
+  padding: 2rem 0;
+}
+
+.ingredients-div ul {
+  -moz-column-count: 2;
+  -moz-column-gap: 100px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 100px;
+  column-count: 2;
+  column-gap: 100px;
+}
+
+.steps-div ul {
+  -moz-column-count: 2;
+  -moz-column-gap: 100px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 100px;
+  column-count: 2;
+  column-gap: 100px;
+}
+
+.recipe-footer {
+  padding: 0 0 5rem 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

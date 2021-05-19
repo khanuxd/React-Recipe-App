@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(239, 239, 239);
+}
+
+/* BUTTON */
+
+.btn-warning {
+  color: #fff !important;
+  background-color: #ff6f00 !important;
+  border-color: #ff6f00 !important;
+}
+
+.btn-outline-warning {
+  border-color: #ff6f00 !important;
+  color: #ff6f00 !important;
+}
+
+.btn-outline-warning:hover {
+  background-color: #ff6f00 !important;
+  color: #fff !important;
+}
