@@ -57,7 +57,7 @@ const SingleRecipe = () => {
                         </div>
                         <div className="steps-div">
                             <h3>Steps</h3>
-                            <ul>
+                            <ol>
                                 {recipe.recipeInstructions.map((recipeInd) => {
                                     return (
                                         <li key={recipeInd.id}>
@@ -65,7 +65,7 @@ const SingleRecipe = () => {
                                         </li>
                                     )
                                 })}
-                            </ul>
+                            </ol>
                         </div>
                     </div>
                 </div>
