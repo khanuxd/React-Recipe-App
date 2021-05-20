@@ -56,6 +56,8 @@ const RecipeForm = () => {
         setIngredients([...ingredients, newRecipeIngredient]);
     };
 
+    
+
     const addMoreStep = (e, i) => {
         e.preventDefault();
         const newRecipeStep = { id: step.length + 1, recipeStep: "" };
