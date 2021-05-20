@@ -35,11 +35,13 @@
   justify-items: center;
   align-items: center;
   color: black;
+  z-index: 100;
+  text-align: center;
 }
 
 .postedUpdate {
   background-color: white;
-  padding: 1rem;
+  padding: 3rem;
   width: 350px;
   height: 200px;
   position: relative;
@@ -62,4 +64,8 @@
   cursor: pointer;
   box-shadow: none;
   border: none;
+}
+
+.postedUpdate span {
+  font-weight: bold;
 }

@@ -11,7 +11,7 @@ const PostedStatus = ({ name }) => {
         <div className="overlay">
             <div className="postedUpdate">
                 <button onClick={closeHandler}>X</button>
-                <p> Your recipe {name} posted successfully</p>
+                <p> Your recipe <span>{name}</span> posted successfully</p>
             </div>
         </div>
     );
