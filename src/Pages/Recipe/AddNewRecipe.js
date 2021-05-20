@@ -56,17 +56,22 @@ const RecipeForm = () => {
         setIngredients([...ingredients, newRecipeIngredient]);
     };
 
-    
-
     const addMoreStep = (e, i) => {
         e.preventDefault();
         const newRecipeStep = { id: step.length + 1, recipeStep: "" };
         setStep([...step, newRecipeStep]);
     };
 
+    // const deleteRow = (e, i) => {
+    //     e.preventDefault();
+
+    //     const del = step.filter(steps => i !== steps.i);
+    //     setStep(del);
+    //     console.log(`value of delete is ${i}`);
+    // };
+
     const submitData = (e) => {
         e.preventDefault();
-
         axios
             .post("https://recipe-json-server.herokuapp.com/recipes", data);
         e.target.reset();
@@ -149,8 +154,8 @@ const RecipeForm = () => {
                         return (
                             <div key={i}>
                                 <Form.Group>
-
-                                    <Form.Label htmlFor="recipeStep">Step</Form.Label>
+                                    <Form.Label htmlFor="recipeStep">Step: {i + 1}</Form.Label>
+                                    {/* <Button onClick={deleteRow}>Delete</Button> */}
                                     <Form.Control
                                         type="text"
                                         id="recipeStep"

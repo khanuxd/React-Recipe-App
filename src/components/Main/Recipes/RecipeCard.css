@@ -1,3 +1,12 @@
+.cards {
+  width: 80%;
+  margin: 5rem auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .card-tag {
   display: flex;
   justify-content: space-between;
@@ -47,11 +56,4 @@
 .card:hover .card-button {
   background-color: #ff6f00;
   color: #fff !important;
-}
-
-.cards {
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  flex-wrap: wrap;
 }
