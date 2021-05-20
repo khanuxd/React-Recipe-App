@@ -66,7 +66,7 @@ const RecipeForm = () => {
         e.preventDefault();
 
         axios
-            .post("http://localhost:3001/recipes", data);
+            .post("https://recipe-json-server.herokuapp.com/recipes", data);
         e.target.reset();
         setChange(true);
     };

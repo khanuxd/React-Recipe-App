@@ -3,7 +3,6 @@ import React, { useEffect, useState } from 'react';
 import { useHistory, useParams } from 'react-router';
 
 import { Button } from 'react-bootstrap';
-
 import './SingleRecipe.css';
 
 const SingleRecipe = () => {
@@ -14,7 +13,7 @@ const SingleRecipe = () => {
     useEffect(() => {
         if (!recipe) {
             axios
-                .get("http://localhost:3001/recipes/" + id)
+                .get("https://recipe-json-server.herokuapp.com/recipes/" + id)
                 .then(res => setRecipe(res.data));
         }
     });
@@ -57,7 +56,7 @@ const SingleRecipe = () => {
                         </div>
                         <div className="steps-div">
                             <h3>Steps</h3>
-                            <ol>
+                            <ol className="notepad">
                                 {recipe.recipeInstructions.map((recipeInd) => {
                                     return (
                                         <li key={recipeInd.id}>

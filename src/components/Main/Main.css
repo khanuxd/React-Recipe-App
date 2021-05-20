@@ -2,6 +2,15 @@
   margin-top: 60px;
 }
 
+.spinner-section {
+  width: 70%;
+  height: 85vh;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .search-area {
   padding: 5rem;
   display: flex;

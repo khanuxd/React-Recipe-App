@@ -15,7 +15,7 @@ const Recipes = () => {
 
             try {
                 const recipeRes = await axios
-                    .get("http://localhost:3001/recipes");
+                    .get("https://recipe-json-server.herokuapp.com/recipes");
                 setRecipes(recipeRes.data);
                 setLoading(true);
             } catch (error) {
@@ -28,7 +28,9 @@ const Recipes = () => {
     return (
         <>
             {loading ? <RecipesList key={recipes.id} recipes={recipes} /> : (
-                <Spinner animation="border" />
+                <div className="spinner-section">
+                    <Spinner animation="grow" />
+                </div>
             )}
         </>
     );

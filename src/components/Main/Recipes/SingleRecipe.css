@@ -2,6 +2,12 @@
   width: 100%;
 }
 
+.recipe-details {
+  padding: 2rem 5rem;
+  width: 80%;
+  margin: 0 auto;
+}
+
 .recipe h3 {
   padding: 1rem 0;
 }
@@ -13,10 +19,11 @@
   text-align: justify;
 }
 
-.recipe-details {
-  padding: 2rem 5rem;
-  width: 90%;
-  margin: 0 auto;
+.recipe ol li {
+  line-height: 2rem;
+  color: rgb(45, 45, 45);
+  text-align: justify;
+  line-height: 2rem;
 }
 
 .recipe-details h1 {
@@ -24,16 +31,6 @@
 }
 
 .ingredients-div ul {
-  -moz-column-count: 2;
-  -moz-column-gap: 100px;
-  -webkit-column-count: 2;
-  -webkit-column-gap: 100px;
-  column-count: 2;
-  column-gap: 100px;
-}
-
-.steps-div ul,
-.steps-div ol {
   -moz-column-count: 2;
   -moz-column-gap: 100px;
   -webkit-column-count: 2;

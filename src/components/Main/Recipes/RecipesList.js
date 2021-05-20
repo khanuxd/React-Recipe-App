@@ -17,7 +17,7 @@ class RecipesList extends Component {
 
         this.setState({ isLoading: true });
 
-        fetch("http://localhost:3001/recipes")
+        fetch("https://recipe-json-server.herokuapp.com/recipes")
             .then(res => res.json())
             .then(res => this.setState({ recipes: res, isLoading: false }));
 
