@@ -8,6 +8,12 @@
   color: #ff6f00;
 }
 
+.logo img {
+  width: 100px;
+  height: auto;
+  padding: 1rem 0;
+}
+
 .navbar-nav {
   display: flex;
   align-items: center;

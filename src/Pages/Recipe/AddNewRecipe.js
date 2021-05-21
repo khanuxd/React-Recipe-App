@@ -62,13 +62,13 @@ const RecipeForm = () => {
         setStep([...step, newRecipeStep]);
     };
 
-    // const deleteRow = (e, i) => {
-    //     e.preventDefault();
-
-    //     const del = step.filter(steps => i !== steps.i);
-    //     setStep(del);
-    //     console.log(`value of delete is ${i}`);
-    // };
+    /*     const deleteRow = (e, i) => {
+            e.preventDefault();
+    
+            const del = step.filter(steps => i !== steps.i);
+            setStep(del);
+            console.log(`value of delete is ${i}`);
+        }; */
 
     const submitData = (e) => {
         e.preventDefault();
