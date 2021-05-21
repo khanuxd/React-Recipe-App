@@ -125,7 +125,7 @@ const RecipeForm = () => {
                                             <Form.Control
                                                 type="text"
                                                 id="ingquantity"
-                                                name="ingquantity" required
+                                                name="ingquantity"
                                                 onChange={(e) => changeIngData(e, i)}
                                             />
                                         </Col>
@@ -134,7 +134,7 @@ const RecipeForm = () => {
                                             <Form.Control
                                                 type="text"
                                                 id="ingName"
-                                                name="ingName" required
+                                                name="ingName"
                                                 onChange={(e) => changeIngData(e, i)}
                                             />
                                         </Col>
@@ -155,11 +155,10 @@ const RecipeForm = () => {
                             <div key={i}>
                                 <Form.Group>
                                     <Form.Label htmlFor="recipeStep">Step: {i + 1}</Form.Label>
-                                    {/* <Button onClick={deleteRow}>Delete</Button> */}
                                     <Form.Control
                                         type="text"
                                         id="recipeStep"
-                                        name="recipeStep" required
+                                        name="recipeStep"
                                         onChange={(e) => changeStepData(e, i)}
                                     />
                                 </Form.Group>
