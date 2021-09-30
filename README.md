@@ -1,3 +1,5 @@
+[![CICD-RecipeApp](https://github.com/khanuxd/React-Recipe-App/actions/workflows/main.yml/badge.svg)](https://github.com/khanuxd/React-Recipe-App/actions/workflows/main.yml)
+
 # Project Name: Recipe App
 
 A school project for the showcase of cooking recipes where the ultimate goal is to learn how to do get and post request from my own built server and showcasing the data for the users.
@@ -23,4 +25,3 @@ A school project for the showcase of cooking recipes where the ultimate goal is 
 5. Run the app in your localhost [http://localhost:3000](http://localhost:3000)
 
 ### `npm start`
-
